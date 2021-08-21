@@ -1,0 +1,63 @@
+#url:
+#baseurl:
+
+# Site settings
+title:
+email: 
+description: 
+
+
+# Team names, titles and social links
+people:
+- name: Giovanna de Pellegrini
+  pic: 1
+  position: Fisioterapeuta CREFITO 169099
+  #social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: stack-overflow
+  #    url: #
+
+- name: Graziela Marcelino da Costa
+  pic: 2
+  position: Fisioterapeuta CREFITO 131770
+<<<<<<< HEAD
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/UNNIK-Pilates-1630078513893564/
+  - title: instagram
+    url: https://www.instagram.com/unnikpilates/
+=======
+  
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket 
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+>>>>>>> 1142038be2d42dd47e116ecdd7dd0d7d5f076506
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Rua Padre Roma, 482 - Sala 106
+  - line: Premier Office Center
+  - line: Centro - Florianópolis - SC
+  - line: Fone (48) 3028-9900 | (48) 98421-2345 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+imagesurl: "/img/gallery/"
+thumbsurl: "/img/thumbs/"
