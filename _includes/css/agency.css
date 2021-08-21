@@ -283,11 +283,7 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
-<<<<<<< HEAD
     background-position: top;
-=======
-    background-position: center center;
->>>>>>> 1142038be2d42dd47e116ecdd7dd0d7d5f076506
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -346,11 +342,7 @@ section {
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-<<<<<<< HEAD
     font-size: 30px;
-=======
-    font-size: 40px;
->>>>>>> 1142038be2d42dd47e116ecdd7dd0d7d5f076506
 }
 
 section h3.section-subheading {
